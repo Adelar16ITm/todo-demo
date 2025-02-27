@@ -1,5 +1,5 @@
-import AddtoDo from "@/components/toDo"
-import ToDolist from " @/components/toDoList
+import AddtoDo from "@/components/AddToDo"
+import ToDolist from " @/components/ToDoList
 
 export default function Home() {
   return (
